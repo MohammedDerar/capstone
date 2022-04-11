@@ -16,7 +16,7 @@ Tere are three different user roles with different permissions for each.
 # Running API
 
 ### Getting Started
-- Base URL: API endpoints can be accessed via https://capstone-fsnd-varlese.herokuapp.com/.
+- Base URL: API endpoints can be accessed via https://m-alahmad-capstone-1.herokuapp.com/.
 ### Running localy
 - The API can be run locally on http://localhost:8080  
 - Authentication: Auth0 information for endpoints that require authentication can be found in setup.sh.
